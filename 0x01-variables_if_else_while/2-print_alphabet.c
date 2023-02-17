@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -Read Alphabet
+ * main - Read Alphabet
  *
  * Return: 0 (executed)
  */
@@ -13,6 +13,6 @@ int main(void)
 	{
 		putchar alpha(i)
 		putchar('\n');
-		return (0);
 	}
+return (0);
 }
