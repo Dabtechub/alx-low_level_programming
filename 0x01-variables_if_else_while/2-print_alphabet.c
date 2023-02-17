@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Read Alphabet
  *
@@ -6,12 +7,12 @@
  */
 int main(void)
 {
-	char alph[26] = "abcdefghijklmnopqrstuvwxyz";
+	char alpha[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
 	for (i = 0; i < 26; i++)
 	{
-		putchar alpha(i)
+		putchar (alpha[i]);
 		putchar('\n');
 	}
 return (0);
