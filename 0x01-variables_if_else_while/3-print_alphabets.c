@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- *
- * main - Entry point
+ * main - Entry point for program.
  * Return: 0 (success)
  */
 
@@ -16,5 +15,5 @@ for (i = 'A'; i <= 'Z'; i++)
 putchar(i);
 putchar('\n');
 
-return(0);
+return (0);
 }
