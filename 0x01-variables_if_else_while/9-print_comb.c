@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
- * main - Entry point of program.
- * Return: Always 0 (Success)
- */
+* main - Entry point of program.
+* Return: Always 0 (Success)
+*/
 
 int main(void)
 {
@@ -23,3 +23,4 @@ int main(void)
 	puchar('\n');
 	return (0);
 }
+
